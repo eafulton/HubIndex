@@ -1,0 +1,64 @@
+﻿Group,ID
+phytoplankton,1
+infauna,2
+amphipods,3
+epibenthic,4
+micro-zoop,5
+copepods,6
+euphausiids,7
+carniv-zoops,8
+small jellies,9
+large jellies,10
+pandalid shp,11
+benthic shp,12
+dungeness,13
+tanner crb,14
+cephalopods,15
+forage fish,16
+mesopelagics,17
+benthic fish,18
+macrourids,19
+sardine,20
+mackerel,21
+salmon,22
+hake,23
+skates,24
+dogfish,25
+sablefish,26
+juv rock,27
+POP,28
+canary,29
+widow,30
+yellowtail,31
+black,32
+shelf rock,33
+slope rock,34
+ssthorny,35
+lsthorny,36
+juv thorny,37
+juv round,38
+lingcod,39
+juv flat,40
+english,41
+petrale,42
+small flat,43
+rex,44
+dover,45
+arrowtooth,46
+halibut,47
+albacore,48
+coastal sharks,49
+shearwaters,50
+murres,51
+gulls,52
+orcas,53
+toothed whales,54
+sperm whales,55
+harbor seals,56
+sea lions,57
+fur seals,58
+grey whales,59
+baleen whales,60
+fishery offal,61
+pelagic detritu,62
+Detritus,63

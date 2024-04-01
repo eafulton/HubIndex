@@ -1,0 +1,35 @@
+﻿Group,ID
+Phytoplankton,1
+Small zooplankton,2
+Large zooplankton,3
+Deposit Feeders,4
+Scallops and mussels,5
+Filter Feeders,6
+Inf. Predators,7
+Epi. Predators,8
+Sth Rock Lobster,9
+Abalone,10
+Other Grazers,11
+Scavengers,12
+Microphytobenthos,13
+Seagrass,14
+Macroalgae,15
+Clupeoids,16
+Juvenile Snapper,17
+Snapper,18
+Juvenile Flatfish,19
+Flatfish,20
+Juvenile KG Whiting,21
+KG Whiting,22
+Juvenile Piscivores,23
+Piscivores,24
+Juvenile Mullet,25
+Mullet and Garfish,26
+Other demersals,27
+Southern calamari,28
+Other cepahalopods,29
+Rays,30
+Sharks,31
+Birds,32
+Marine mammals,33
+Detritus,34

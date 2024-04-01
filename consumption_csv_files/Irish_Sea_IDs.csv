@@ -1,0 +1,54 @@
+﻿Group,ID
+Toothed Whales,1
+Baleen Whales,2
+Seals,3
+Seabirds,4
+Basking Sharks,5
+Bass,6
+Adult Cod 2+,7
+Juvenile Cod Age 1,8
+Adult Haddock 2+,9
+Juvenile Haddock Age 1,10
+Adult Plaice 2+,11
+Juvenile Plaice Age 1,12
+Whiting,13
+Sole,14
+Seatrout,15
+Sandeels,16
+Small Flatfish,17
+Medium Flatfish,18
+Large Flatfish,19
+Dragonets,20
+Other Large Demersals,21
+Gurnards,22
+Mackerel,23
+Monkfish,24
+Mullet,25
+Other Large Gadoids,26
+Other Small Demersal,27
+Other Small Gadoids,28
+Small Pelagic Planktivorous Fish,29
+Small Sharks,30
+Large Sharks,31
+Skates and Rays,32
+Epifaunal Macrobenthos,33
+Epifaunal Mesobenthos,34
+Infauna (Polycheate),35
+Infaunal Macrobenthos,36
+Infaunal Mesobenthos,37
+Lobster and Large Crabs,38
+Nephrops,39
+Cephalopods,40
+Prawns and Shrimp,41
+Sessile Epifauna,42
+Meiofauna,43
+Gelatinous Zooplankton,44
+Carnivorous Zooplankton,45
+Omnivorous Zooplankton,46
+Herbivorous Zooplankton,47
+Seaweed,48
+Microflora,49
+Phytoplankton,50
+Particulate Organic Matter,51
+Dissolved Organic Matter,52
+Discards,53

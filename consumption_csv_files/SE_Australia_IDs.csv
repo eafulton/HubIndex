@@ -1,0 +1,57 @@
+﻿Group,ID
+Toothed whale,1
+Baleen whale,2
+Seal,3
+Seabirds,4
+Penguins,5
+Tuna/billfish,6
+Pelagic sharks,7
+Demersal sharks,8
+Rays,9
+Warehous,10
+Redbait,11
+Redfish,12
+Ling,13
+Dories,14
+Jack mackerel,15
+Jackass morwong,16
+Flathead,17
+Gemfish,18
+ShOceanPerch,19
+Chinaman leatherjacket,20
+Cucumberfish,21
+Whiting,22
+Cardinal,23
+ShSmInvertFeeder,24
+ShSmPredator,25
+ShMedInvertFeeder,26
+ShMedPredator,27
+ShLInvertFeeder,28
+ShLPredator,29
+Blue-eye trevalla,30
+Blue grenadier,31
+SlopeOceanPerch,32
+Deepsea Cod,33
+Oreos,34
+SlopeSmInvertFeeder,35
+SlopeSmPredator,36
+SlopeMInverFeeder,37
+SlopeMPredator,38
+SlopeLInvertFeeder,39
+SlopeLPredator,40
+PelSmInvertFeeder,41
+PelMInvertFeeder,42
+PelMPredator,43
+PelLInvertFeeder,44
+PelLPredator,45
+Mesopelagics,46
+Squid,47
+PelagicPrawns,48
+Macrobenthos,49
+Megabenthos,50
+Polychaeta,51
+Gelatinous nekton,52
+L zooplankton,53
+Sm zooplankton,54
+Primary producers,55
+Detritus,56

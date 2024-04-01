@@ -1,0 +1,68 @@
+﻿Group,ID
+Baleen whales,1
+Toothed whales,2
+Seals,3
+Seabirds,4
+Juvenile sharks,5
+Spurdog,6
+Large piscivorous sharks,7
+Small sharks,8
+Juvenile rays,9
+Starry ray + others,10
+Thornback & Spotted ray,11
+Skate + cuckoo ray,12
+"Juvenile Cod(0-2, 0-40cm)",13
+Cod (adult),14
+"Juvenile Whiting (0-1, 0-20cm)",15
+Whiting (adult),16
+"Juvenile Haddock (0-1, 0-20cm)",17
+Haddock (adult),18
+"Juvenile Saithe (0-3, 0-40cm)",19
+Saithe (adult),20
+Hake,21
+Blue whiting,22
+Norway pout,23
+Other gadoids (large),24
+Other gadoids (small),25
+Monkfish,26
+Gurnards,27
+"Herring (juvenile 0, 1)",28
+Herring (adult),29
+Sprat,30
+Mackerel,31
+Horse mackerel,32
+Sandeels,33
+Plaice,34
+Dab,35
+Long-rough dab,36
+Flounder,37
+Sole,38
+Lemon sole,39
+Witch,40
+Turbot and brill,41
+Megrim,42
+Halibut,43
+Dragonets,44
+Catfish (Wolf-fish),45
+Large demersal fish,46
+Small demersal fish,47
+Miscellaneous filterfeeding pelagic fish,48
+Squid & cuttlefish,49
+Fish larvae,50
+Carnivorous zooplankton,51
+Herbivorous & Omnivorous zooplankton (copepods),52
+Gelatinous zooplankton,53
+Large crabs,54
+Nephrops,55
+Epifaunal macrobenthos (mobile grazers),56
+Infaunal macrobenthos,57
+Shrimp,58
+Small mobile epifauna (swarming crustaceans),59
+Small infauna (polychaetes),60
+Sessile epifauna,61
+Meiofauna,62
+"Benthic microflora (incl. Bacteria, protozoa))",63
+"Planktonic microflora (incl. Bacteria, protozoa)",64
+Phytoplankton,65
+Detritus - DOM -water column,66
+Detritus - POM - sediment,67

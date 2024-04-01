@@ -1,0 +1,64 @@
+﻿Group,ID
+0-12 Snook,1
+3-12 Snook,2
+12-48 Snook,3
+48-90 Snook,4
+90+ Snook,5
+0-3 Red Drum,6
+3-8 Red Drum,7
+8-18 Red Drum,8
+18-36 Red Drum,9
+36+ Red Drum,10
+0-3 Sea Trout,11
+3-18 Sea Trout,12
+18+ Sea Trout,13
+0-3 Sand Trout,14
+3-12 Sand Trout,15
+12+ Sand Trout,16
+0-6 Mullet,17
+6-18 Mullet,18
+18+ Mullet,19
+Mackrel 0-3,20
+Mackrel 3+,21
+Ladyfish 0-10,22
+Ladyfish 10+,23
+Grouper 0,24
+Grouper 1-3,25
+Grouper 3+,26
+Jacks,27
+Bay Anchovy,28
+Pin Fish,29
+Spot,30
+Silver Perch,31
+Scaled Sardine,32
+Mojarra,33
+Threadfin Herring,34
+juv Menhaden,35
+Menhaden,36
+Menidia (silverside),37
+Catfish,38
+Bumper,39
+Caridan Shrimp,40
+Shrimp,41
+Stone Crab,42
+Blue Crab,43
+Cyprinodontids,44
+Poecilids,45
+Pigfish,46
+Gobies,47
+Rays,48
+Pompano,49
+Lobster,50
+red snapper 0-6,51
+red snapper 6-24,52
+red snapper older,53
+Atlantic croaker,54
+LCsharks,55
+Benthic Invertebrates,56
+Macro Zooplankton,57
+Micro Zoolplankton,58
+Infauna,59
+Attached Microalgae,60
+Sea Grass,61
+Phytoplankton,62
+Detritus,63

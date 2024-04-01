@@ -1,0 +1,11 @@
+﻿Prey \ predator,Large Piscivores,Small Piscivores,Juv. Piscivores,Adult Planktivores,Juv. Planktivores,Jellies,Macrozooplankton,Microzooplankton,Phytoplankton,Detritus
+Large Piscivores,0,0,0,0,0,0,0,0,0,0.3069589
+Small Piscivores,0,0,0,0,0,0,0,0,0,0.07173768
+Juv. Piscivores,0.000916253,0,0,0,0,0,0,0,0,0.003826583
+Adult Planktivores,0.8246279,0.1654868,0,0,0,0,0,0,0,4.86422
+Juv. Planktivores,0.009162532,0.01838742,0.000657108,0,0,0,0,0,0,0.0766887
+Jellies,0,0,0,0,0,0.06666666,0,0,0,1.1
+Macrozooplankton,0,0,0.01051373,11.36148,0.02852284,0.6666667,0,0,0,37.93282
+Microzooplankton,0,0,0.001971324,0,0.2281827,2.6,69.99999,0,0,127.1698
+Phytoplankton,0,0,0,0,0.02852284,0,20,360,0,2619.971
+Detritus,0,0,0,0,0,0,10,40,0,0

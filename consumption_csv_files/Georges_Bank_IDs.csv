@@ -1,0 +1,32 @@
+﻿Group,ID
+Phytoplankton,1
+Bacteria,2
+Microzooplankton,3
+Small copepods,4
+Large copepods,5
+Gelatinous zooplankton,6
+Micronekton,7
+Mesopelagics,8
+Macrobenthos polychaetes,9
+Macrobenthos crustaceans,10
+Macrobenthos molluscs,11
+Macrobenthos other,12
+Megabenthos filter,13
+Megabenthos oither,14
+Shrimp,15
+Larval fish,16
+Small pelagics commercial,17
+Small pelagics other,18
+Small pelagic squid,19
+Small pelaglics anadromous,20
+Medium pelagics,21
+Demersal benthivores,22
+Demersal omnivores,23
+Demersal piscivores,24
+Sharks pelagic,25
+Highly migratory tuna etc,26
+Baleen whales,27
+Odontocetes,28
+Seabirds,29
+Discards,30
+Detritus,31

@@ -1,0 +1,32 @@
+﻿Group,ID
+Whales,1
+Harp Seals,2
+Hooded Seals,3
+Seabirds,4
+Cod > 35cm,5
+Cod <= 35 cm,6
+G.halibut>40cm,7
+G.halibut<=40cm,8
+Aplaice>35cm,9
+Aplaice<=35cm,10
+Flounders,11
+Skates,12
+Redfish,13
+L.Dem.Feeders,14
+S.Dem.Feeders,15
+Capelin,16
+Sand lance,17
+Arctic cod,18
+L.Pel.Feeders,19
+Pisc. SPF,20
+Plankt. SPF,21
+Shrimp,22
+Large Crustacea,23
+Echinoderms,24
+Molluscs,25
+Polychaetes,26
+O.Benthic Inver,27
+L.Zooplankton,28
+S.Zooplankton,29
+Phytoplankton,30
+Detritus,31

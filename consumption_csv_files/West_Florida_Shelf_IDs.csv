@@ -1,0 +1,60 @@
+﻿Group,ID
+Dolphins,1
+Seabirds,2
+Turtles,3
+Manatees,4
+LgOcePisc,5
+LgOcePlank,6
+Coastalsharks,7
+Rays/skates,8
+PelOcePisc,9
+PelCoasPisc,10
+MackerelAdul,11
+MackerelJuv,12
+Sardine/Herring,13
+PelOceJelly/eaters,14
+PelOcePlanktivores,15
+DemOceInvert/eaters,16
+DemCoasPisc,17
+DemCoasInvert/eaters,18
+DemCoasOmniv,19
+BentOcePisc,20
+BentOceInvert/eaters,21
+BentCoasPisc,22
+BentCoasInvert/eaters,23
+SurfacePelagics,24
+StrucAssCoasPisc,25
+LgGroupers,26
+StrucAssCoasInvert/eaters,27
+StrucAssCoasOmniv,28
+StrucAssCoasPlank,29
+NearshAssPisc,30
+Mullets,31
+NearshPlanktivores,32
+Other fishes,33
+Squid,34
+Adult Shrimps,35
+Lobsters,36
+Large Crabs,37
+Octopods,38
+Stomatopods,39
+Echinoderms/Large gastropods,40
+Bivalves,41
+Sessile epibenthos,42
+Small infauna,43
+Small mobile epifauna,44
+Meiofauna,45
+Small Copepods,46
+Other Mesozooplankton,47
+CarnivZooplank,48
+Ichthyoplankton,49
+CarnivJellyfish,50
+Microbial Heterotrophs,51
+Macroalgae,52
+Microphytobenthos,53
+Phytoplankton,54
+Sea grasses,55
+Dead carcasses,56
+Sediment Detritus,57
+Watercolumn Detritus,58
+Drift Macrophytes,59

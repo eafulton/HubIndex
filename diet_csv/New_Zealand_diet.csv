@@ -1,0 +1,20 @@
+﻿Prey \ predator,Birds,Seals,Toothed whales,Fish adult,Fish juvenile,Baleen whales,Squid,Meopelagic fish,Macrozooplankton,Macrobenthos,Mesozooplankton,Ciliates,Heterotrophic flagellates,Meiobenthos,Bacteria column,Bacteria sediment,Phytoplankton,Detritus column,Detritus sediment
+Birds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toothed whales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fish adult,0,0.25,0.3,0.015,0,0,0.06,0,0,0,0,0,0,0,0,0,0,0,0
+Fish juvenile,0.05,0,0,0.04,0,0,0.07,0,0,0,0,0,0,0,0,0,0,0,0
+Baleen whales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Squid,0.3,0.3,0.7,0.015,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0
+Meopelagic fish,0.31,0.45,0,0.155,0,0.4,0.07,0,0,0,0,0,0,0,0,0,0,0,0
+Macrozooplankton,0.34,0,0,0.615,0.4,0.5,0.7,0.38,0,0.05,0,0,0,0,0,0,0,0,0
+Macrobenthos,0,0,0,0.16,0,0,0,0,0,0.05,0,0,0,0,0,0,0,0,0
+Mesozooplankton,0,0,0,0,0.6,0.1,0,0.62,0.55,0,0.15,0,0,0,0,0,0,0,0
+Ciliates,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0
+Heterotrophic flagellates,0,0,0,0,0,0,0,0,0.15,0,0.55,0.6,0.1,0,0,0,0,0,0
+Meiobenthos,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0.2,0,0,0,0,0
+Bacteria column,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0
+Bacteria sediment,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0.8,0,0,0,0,0
+Phytoplankton,0,0,0,0,0,0,0,0,0.3,0,0.1,0.4,0.7,0,0,0,0,0,0
+Detritus column,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Detritus sediment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

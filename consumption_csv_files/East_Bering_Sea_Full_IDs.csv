@@ -1,0 +1,130 @@
+﻿Group,ID
+Transient Killers,1
+Sperm and Beaked Whales,2
+Resident Killers,3
+Porpoises,4
+Belugas,5
+Gray Whales,6
+Humpbacks,7
+Fin Whales,8
+Sei Whales,9
+Right Whales,10
+Minke Whales,11
+Bowhead Whales,12
+Sea Otters,13
+Walrus Bd Seals,14
+N Fur Seal Juv,15
+N Fur Seal Ad,16
+Steller Sea Lions Juv,17
+Steller Sea Lions Ad,18
+Resident Seals,19
+Wintering Seals,20
+Shearwater,21
+Murres,22
+Kittiwakes,23
+Auklets,24
+Puffins,25
+Fulmars,26
+Storm Petrels,27
+Cormorants,28
+Gulls,29
+Albatross Jaeger,30
+Sleeper shark,31
+W Pollock Juv,32
+W Pollock Ad,33
+P Cod Juv,34
+P Cod Ad,35
+Herring Juv,36
+Herring Ad,37
+Arrowtooth Juv,38
+Arrowtooth Ad,39
+Kamchatka fl Juv,40
+Kamchatka fl Ad,41
+Gr Turbot Juv,42
+Gr Turbot Ad,43
+P Halibut Juv,44
+P Halibut Ad,45
+YF Sole Juv,46
+YF Sole Ad,47
+FH Sole Juv,48
+FH Sole Ad,49
+N Rock sole Juv,50
+N Rock sole Ad,51
+AK Plaice,52
+Dover Sole,53
+Rex Sole,54
+Misc Flatfish,55
+Alaska skate,56
+Other skates,57
+Sablefish Juv,58
+Sablefish Ad,59
+Eelpouts,60
+Grenadiers,61
+Misc fish deep,62
+POP,63
+Sharpchin Rock,64
+Northern Rock,65
+Dusky Rock,66
+Shortraker Rock,67
+Rougheye Rock,68
+Shortspine Thorns,69
+Other Sebastes,70
+Atka mackerel Juv,71
+Atka mackerel Ad,72
+Greenlings,73
+Lg Sculpins,74
+Other sculpins,75
+Misc fish shallow,76
+Octopi,77
+Squids,78
+Salmon returning,79
+Salmon outgoing,80
+Bathylagidae,81
+Myctophidae,82
+Capelin,83
+Sandlance,84
+Eulachon,85
+Oth managed forage,86
+Oth pelagic smelt,87
+Bairdi,88
+King Crab,89
+Opilio,90
+Pandalidae,91
+NP shrimp,92
+Sea stars,93
+Brittle stars,94
+Urchins dollars cucumbers,95
+Snails,96
+Hermit crabs,97
+Misc crabs,98
+Misc Crustacean,99
+Benthic Amphipods,100
+Anemones,101
+Corals,102
+Hydroids,103
+Urochordata,104
+Sea Pens,105
+Sponges,106
+Bivalves,107
+Polychaetes,108
+Misc worms,109
+Scyphozoid Jellies,110
+Fish Larvae,111
+Chaetognaths,112
+Euphausiids,113
+Mysids,114
+Pelagic Amphipods,115
+Gelatinous filter feeders,116
+Pteropods,117
+Copepods,118
+Pelagic microbes,119
+Benthic microbes,120
+Macroalgae,121
+Lg Phytoplankton,122
+Sm Phytoplankton,123
+Outside Production,124
+Discards,125
+Offal,126
+Pelagic Detritus,127
+Benthic Detritus,128
+Outside Detritus,129
