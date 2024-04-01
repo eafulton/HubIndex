@@ -1,0 +1,130 @@
+﻿FullModel,Simplif_1,Simplif_2,Simplest
+Transient Killers,Killers Whales,Killers Whales,Toothed whales
+Sperm and Beaked Whales,Toothed Whales,Toothed Whales,Toothed whales
+Resident Killers,Killers Whales,Killers Whales,Toothed whales
+Porpoises,Porpoises,Porpoises,NA
+Belugas,NA,NA,NA
+Gray Whales,Gray Whales,Gray Whales,NA
+Humpbacks,Baleen whales,Baleen whales,Baleen whales
+Fin Whales,Baleen whales,Baleen whales,Baleen whales
+Sei whales,Baleen whales,Baleen whales,Baleen whales
+Right Whales,Baleen whales,Baleen whales,Baleen whales
+Minke Whales,Baleen whales,Baleen whales,Baleen whales
+Bowhead Whales,Baleen whales,Baleen whales,Baleen whales
+Sea Otters,Sea Otters,NA,NA
+Walrus Bd Seals,Walrus Bd Seals,Walrus Bd Seals,Walrus Bd Seals
+N. Fur Seal juv,N. Fur Seal,N. Fur Seal,Seals
+N. Fur Seal adults,N. Fur Seal,N. Fur Seal,Seals
+Steller Sea Lion juv,Steller Sea Lion,Steller Sea Lion,Steller Sea Lion
+Steller Sea Lion adults,Steller Sea Lion,Steller Sea Lion,Steller Sea Lion
+Resident seals,Resident seals,Seals,Seals
+Wintering seals,Wintering seals,Seals,Seals
+Shearwater,Mobile Seabirds,Seabirds,Pisc. birds
+Murres,Mobile Seabirds,Seabirds,Pisc. birds
+Kittiwakes,Mobile Seabirds,Seabirds,Pisc. birds
+Auklets,Mobile Seabirds,Seabirds,Pisc. birds
+Puffins,Inshore Seabirds,Seabirds,Pisc. birds
+Fulmars,Inshore Seabirds,Seabirds,Pisc. birds
+Storm Petrels,Inshore Seabirds,Seabirds,Pisc. birds
+Cormorants,Inshore Seabirds,Seabirds,Pisc. birds
+Gulls,Inshore Seabirds,Seabirds,Pisc. birds
+Albatross Jaeger,Mobile Seabirds,Seabirds,Pisc. birds
+Sleeper shark,Sleeper shark,Sleeper shark,NA
+W. Pollock juv,W. Pollock ,W. Pollock ,W. Pollock 
+W. Pollock adults,W. Pollock ,W. Pollock ,W. Pollock 
+P. cod juv,P. cod ,P. cod ,O.Dem.Fish
+P. cod adults,P. cod ,P. cod ,O.Dem.Fish
+Herring juv,Herring ,Herring ,Shallow Pelagics
+Herring adults,Herring ,Herring ,Shallow Pelagics
+Arrowtooth juv,Arrowtooth ,Arrowtooth ,Large Flatfish
+Arrowtooth adults,Arrowtooth ,Arrowtooth ,Large Flatfish
+Kamchatka fl. juv,Kamchatka fl. ,Flatfish,Small Flatfish
+Kamchatka fl. adult,Kamchatka fl. ,Flatfish,Small Flatfish
+Gr. Turbot juv,Gr. Turbot ,Flatfish,Small Flatfish
+Gr. Turbot adults,Gr. Turbot ,Flatfish,Small Flatfish
+P. Halibut juv,P. Halibut ,Flatfish,Large Flatfish
+P. Halibut adults,P. Halibut ,Flatfish,Large Flatfish
+YF. Sole juv,YF. Sole ,Flatfish,Small Flatfish
+YF. Sole adults,YF. Sole ,Flatfish,Small Flatfish
+FH. Sole juv,FH. Sole ,Flatfish,Small Flatfish
+FH. Sole adults,FH. Sole ,Flatfish,Small Flatfish
+N. Rock sole juv,N. Rock sole ,Flatfish,Small Flatfish
+N. Rock sole adults,N. Rock sole ,Flatfish,Small Flatfish
+AK Plaice,Flatfish,Flatfish,Small Flatfish
+Dover Sole,Flatfish,Flatfish,Small Flatfish
+Rex Sole,Flatfish,Flatfish,Small Flatfish
+Misc. Flatfish,Flatfish,Flatfish,Small Flatfish
+Alaska skate,Skates,Skates,NA
+Other skates,Skates,Skates,NA
+Sablefish juv,Sablefish ,Sablefish ,O.Dem.Fish
+Sablefish adults,Sablefish ,Sablefish ,O.Dem.Fish
+Eelpouts,Eelpouts,Eelpouts,O.Dem.Fish
+Grenadiers,Deepwater Fish,Deepwater Fish,Deepwater fish
+Misc. fish deep,Deepwater Fish,Deepwater Fish,Deepwater fish
+POP,POP,POP,O.Dem.Fish
+Sharpchin Rock,Rockfish,Demersal fish,O.Dem.Fish
+Northern Rock,Rockfish,Demersal fish,O.Dem.Fish
+Dusty Rock,Rockfish,Demersal fish,O.Dem.Fish
+Shortraker Rock,Rockfish,Demersal fish,O.Dem.Fish
+Rougheye Rock,Rockfish,Demersal fish,O.Dem.Fish
+Shortspine Thorns,Shortspine Thorns,Demersal fish,O.Dem.Fish
+Other Sebastes,Other Sebastes,Demersal fish,O.Dem.Fish
+Atka mackerel juv,Atka mackerel ,Atka mackerel ,O.Dem.Fish
+Atka mackerel adult,Atka mackerel ,Atka mackerel ,O.Dem.Fish
+Greenlings,Greenlings,Sculpins,O.Dem.Fish
+Lg. Sculpins,Sculpins,Sculpins,O.Dem.Fish
+Other sculpins,Sculpins,Sculpins,O.Dem.Fish
+Misc. fish shallow,Misc. fish shallow,Misc. fish shallow,O.Dem.Fish
+Octopi,Octopi,Cephalopods,Cephalopods
+Squids,Squids,Cephalopods,Cephalopods
+Salmon returning,Salmon,Salmon,NA
+Salmon outgoing,Salmon,Salmon,NA
+Bathylagidae,Bathylagidae,Mesopelagics,Deep Pelagics
+Myctophid,Myctophid,Mesopelagics,Deep Pelagics
+Capelin,Forage fish,Forage fish,Shallow Pelagics
+Sandlance,Forage fish,Forage fish,Shallow Pelagics
+Eulachon,Forage fish,Forage fish,Shallow Pelagics
+Oth. managed forage,Forage fish,Forage fish,Shallow Pelagics
+Oth. pelagic smelt,Forage fish,Forage fish,Shallow Pelagics
+Bairdi,Bairdi,Crustaceans,Epifauna
+King Crab,King Crab,Crustaceans,Epifauna
+Opilio,Opilio,Crustaceans,Epifauna
+Pandalidae,Pandalidae,Crustaceans,Epifauna
+NP shrimp,NP shrimp,Crustaceans,Epifauna
+Sea stars,Sea stars,Sea stars,Epifauna
+Brittle stars,Brittle stars,Sea stars,Epifauna
+Urchins dollars cucumbers,Urchins dollars cucumbers,Urchins dollars cucumbers,Epifauna
+Snails,Snails,Snails,Epifauna
+Hermit crabs,Hermit crabs,Crustaceans,Epifauna
+Misc. crabs,Misc. crabs,Crustaceans,Epifauna
+Misc. Crustacean,Misc. Crustacean,Crustaceans,Epifauna
+Benthic Amphipods,Benthic Amphipods,Benthic Amphipods,Epifauna
+Anemones,Coral-like,Coral-like,Benth.P.Feeders
+Corals,Coral-like,Coral-like,Benth.P.Feeders
+Hydroids,Coral-like,Coral-like,Benth.P.Feeders
+Urochordata,Urochordata,Urochordata,Benth.P.Feeders
+Sea Pens,Sea Pens & Sponges,Sea Pens & Sponges,Benth.P.Feeders
+Sponges,Sea Pens & Sponges,Sea Pens & Sponges,Benth.P.Feeders
+Bivalves,Bivalves,Bivalves,Benth.P.Feeders
+Polychaetes,Polychaetes,Worms,Infauna
+Misc. worms,Misc. worms,Worms,Infauna
+Scyphozoid,Scyphozoid,Scyphozoid,Jellyfish
+Fish Larve,Fish Larve,Large Zooplankton,Large Zooplankton
+Chaetognaths,Chaetognaths,Large Zooplankton,Large Zooplankton
+Euphasids,Euphasids,Large Zooplankton,Large Zooplankton
+Mysids,Mysids,Pelagic Amphipods,Large Zooplankton
+Pelagic Amphipods,Pelagic Amphipods,Large Zooplankton,Large Zooplankton
+Gelatinous filter feeders,Gelatinous filter feeders,Gelatinous filter feeders,Jellyfish
+Pteropods,Pteropods,Pteropods,HerbivZooplankton
+Copepods,Copepods,Copepods,HerbivZooplankton
+Pelagic microbes,Pelagic microbes,Microbes,NA
+Benthic microbes,Benthic microbes,Microbes,NA
+Macroalgae,Macroalgae,Macroalgae,NA
+Large Phytoplankton,Large Phytoplankton,Phytoplankton,Phytoplankton
+Sm Phytoplankton,Sm Phytoplankton,Phytoplankton,Phytoplankton
+Outside Production,Outside Production,Outside Production,NA
+Discards,Discards,Discards,Detritus
+Offal,Offal,Discards,Detritus
+Pelagic Detritus,Detritus,Detritus,Detritus
+Benthic Detritus,Detritus,Detritus,Detritus
+Outside Detritus,Outside Detritus,Outside Detritus,NA

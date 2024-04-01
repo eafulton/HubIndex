@@ -1,0 +1,11 @@
+﻿SystemType,HR_Ratio,ConfidenceInterval,SpeciesType
+Upwelling,18.4,0.33,Treatment
+Polar,1.8,0.17,Treatment
+Temperate,1.4,0.21,Treatment
+Tropical,1.9,0.25,Treatment
+OpenOcean,3.3,0.35,Treatment
+Upwelling,5093.7,4186.44,NonTreatment
+Polar,16.8,2.08,NonTreatment
+Temperate,2.8,0.11,NonTreatment
+Tropical,79.8,9.76,NonTreatment
+OpenOcean,25.9,4.45,NonTreatment
