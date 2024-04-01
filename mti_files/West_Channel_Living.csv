@@ -1,0 +1,53 @@
+﻿Group,Living
+Primary produce,TRUE
+Microzooplankton,TRUE
+Mesozooplankton,TRUE
+Marozooplankton,TRUE
+deposit feeders,TRUE
+suspension feed,TRUE
+Shrimp and Praw,TRUE
+Whelk,TRUE
+Echinoderms,TRUE
+Bivalves,TRUE
+Scallops,TRUE
+Crab,TRUE
+Commercial crab,TRUE
+Lobster,TRUE
+Small demersals,TRUE
+Small gadoids,TRUE
+Mullet,TRUE
+Sole Juv,TRUE
+Sole Ad,TRUE
+Plaice Juv,TRUE
+Plaice Ad,TRUE
+Dab,TRUE
+Lemon Sole,TRUE
+Large Flatfish,TRUE
+Gurnards,TRUE
+Whiting Juv,TRUE
+Whiting Ad,TRUE
+Cod Juv,TRUE
+Cod Ad,TRUE
+Hake,TRUE
+Dogfish,TRUE
+Rays,TRUE
+Pollack,TRUE
+Monkfishes,TRUE
+Large bottom,TRUE
+Seabreams,TRUE
+John Dory,TRUE
+Sandeels,TRUE
+Herring,TRUE
+Sprat,TRUE
+Pilchard,TRUE
+Mackerel,TRUE
+Scad,TRUE
+Bass,TRUE
+Sharks,TRUE
+Basking shark,TRUE
+Cephalopods,TRUE
+Seabirds,TRUE
+Toothed cetaceans,TRUE
+Seals,TRUE
+Discarded catch,FALSE
+Detritus,FALSE

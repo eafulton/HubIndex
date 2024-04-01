@@ -1,0 +1,60 @@
+﻿Prey \ predator,Respiration
+Dolphins,1.225584
+Seabirds,0.0639
+Turtles,0.0179952
+Manatees,0.01744
+LgOcePisc,0.3668
+LgOcePlank,0.04923048
+Coastalsharks,0.19998
+RaysSkates,1.379448
+PelOcePisc,0.8643215
+PelCoasPisc,1.73512
+MackerelAdul,1.100928
+MackerelJuv,0.810306
+Sardine Herring,17.81808
+PelOceJellyEaters,10.77296
+PelOcePlanktivores,10.9875
+DemOceInvertEaters,0.51336
+DemCoasPisc,0.531024
+DemCoasInvertEaters,7.954801
+DemCoasOmniv,7.5348
+BentOcePisc,0.26559
+BentOceInvertEaters,2.17056
+BentCoasPisc,1.508906
+BentCoasInvertEaters,6.21608
+SurfacePelagics,0.6714827
+StrucAssCoasPisc,0.8118
+LgGroupers,0.3369509
+StrucAssCoasInvertEaters,6.1392
+StrucAssCoasOmniv,5.66435
+StrucAssCoasPlank,0.25
+NearshAssPisc,0.06585976
+Mullets,2.674092
+NearshPlanktivores,20.25702
+Other fishes,16.76484
+Squid,21.725
+Adult Shrimps,3.377
+Lobsters,0.12404
+Large Crabs,1.921438
+Octopods,0.5255972
+Stomatopods,3.845743
+Echinoderms Large gastropods,8.237289
+Bivalves,500.1014
+Sessile epibenthos,613.2
+Small infauna,63.7572
+Small mobile epifauna,99.86397
+Meiofauna,16.25
+Small Copepods,63.91
+Other Mesozooplankton,51.59001
+CarnivZooplank,71.28
+Ichthyoplankton,1.38384
+CarnivJellyfish,8.4864
+Microbial Heterotrophs,4320
+Macroalgae,0.6
+Microphytobenthos,3.55875
+Phytoplankton,27.3195
+Sea grasses,1.3521
+Dead carcasses,0
+Sediment Detritus,0
+Watercolumn Detritus,0
+Drift Macrophytes,0

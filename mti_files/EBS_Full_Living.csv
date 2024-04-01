@@ -1,0 +1,130 @@
+﻿Group,Living
+Transient Killers,TRUE
+Sperm and Beaked Whales,TRUE
+Resident Killers,TRUE
+Porpoises,TRUE
+Belugas,TRUE
+Gray Whales,TRUE
+Humpbacks,TRUE
+Fin Whales,TRUE
+Sei Whales,TRUE
+Right Whales,TRUE
+Minke Whales,TRUE
+Bowhead Whales,TRUE
+Sea Otters,TRUE
+Walrus Bd Seals,TRUE
+N Fur Seal Juv,TRUE
+N Fur Seal Ad,TRUE
+Steller Sea Lions Juv,TRUE
+Steller Sea Lions Ad,TRUE
+Resident Seals,TRUE
+Wintering Seals,TRUE
+Shearwater,TRUE
+Murres,TRUE
+Kittiwakes,TRUE
+Auklets,TRUE
+Puffins,TRUE
+Fulmars,TRUE
+Storm Petrels,TRUE
+Cormorants,TRUE
+Gulls,TRUE
+Albatross Jaeger,TRUE
+Sleeper shark,TRUE
+W Pollock Juv,TRUE
+W Pollock Ad,TRUE
+P Cod Juv,TRUE
+P Cod Ad,TRUE
+Herring Juv,TRUE
+Herring Ad,TRUE
+Arrowtooth Juv,TRUE
+Arrowtooth Ad,TRUE
+Kamchatka fl Juv,TRUE
+Kamchatka fl Ad,TRUE
+Gr Turbot Juv,TRUE
+Gr Turbot Ad,TRUE
+P Halibut Juv,TRUE
+P Halibut Ad,TRUE
+YF Sole Juv,TRUE
+YF Sole Ad,TRUE
+FH Sole Juv,TRUE
+FH Sole Ad,TRUE
+N Rock sole Juv,TRUE
+N Rock sole Ad,TRUE
+AK Plaice,TRUE
+Dover Sole,TRUE
+Rex Sole,TRUE
+Misc Flatfish,TRUE
+Alaska skate,TRUE
+Other skates,TRUE
+Sablefish Juv,TRUE
+Sablefish Ad,TRUE
+Eelpouts,TRUE
+Grenadiers,TRUE
+Misc fish deep,TRUE
+POP,TRUE
+Sharpchin Rock,TRUE
+Northern Rock,TRUE
+Dusky Rock,TRUE
+Shortraker Rock,TRUE
+Rougheye Rock,TRUE
+Shortspine Thorns,TRUE
+Other Sebastes,TRUE
+Atka mackerel Juv,TRUE
+Atka mackerel Ad,TRUE
+Greenlings,TRUE
+Lg Sculpins,TRUE
+Other sculpins,TRUE
+Misc fish shallow,TRUE
+Octopi,TRUE
+Squids,TRUE
+Salmon returning,TRUE
+Salmon outgoing,TRUE
+Bathylagidae,TRUE
+Myctophidae,TRUE
+Capelin,TRUE
+Sandlance,TRUE
+Eulachon,TRUE
+Oth managed forage,TRUE
+Oth pelagic smelt,TRUE
+Bairdi,TRUE
+King Crab,TRUE
+Opilio,TRUE
+Pandalidae,TRUE
+NP shrimp,TRUE
+Sea stars,TRUE
+Brittle stars,TRUE
+Urchins dollars cucumbers,TRUE
+Snails,TRUE
+Hermit crabs,TRUE
+Misc crabs,TRUE
+Misc Crustacean,TRUE
+Benthic Amphipods,TRUE
+Anemones,TRUE
+Corals,TRUE
+Hydroids,TRUE
+Urochordata,TRUE
+Sea Pens,TRUE
+Sponges,TRUE
+Bivalves,TRUE
+Polychaetes,TRUE
+Misc worms,TRUE
+Scyphozoid Jellies,TRUE
+Fish Larvae,TRUE
+Chaetognaths,TRUE
+Euphausiids,TRUE
+Mysids,TRUE
+Pelagic Amphipods,TRUE
+Gelatinous filter feeders,TRUE
+Pteropods,TRUE
+Copepods,TRUE
+Pelagic microbes,TRUE
+Benthic microbes,TRUE
+Macroalgae,TRUE
+Lg Phytoplankton,TRUE
+Sm Phytoplankton,TRUE
+Outside Production,TRUE
+Discards,FALSE
+Offal,FALSE
+Pelagic Detritus,FALSE
+Benthic Detritus,FALSE
+Outside Detritus,FALSE

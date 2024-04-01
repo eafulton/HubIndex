@@ -1,0 +1,49 @@
+﻿Group,Living
+Transient Orca,TRUE
+Resident Orca,TRUE
+Sharks,TRUE
+Halibut,TRUE
+Porpoise,TRUE
+Pinnipeds,TRUE
+Lingcod,TRUE
+Sablefish,TRUE
+Adult Atooth,TRUE
+Adult Salmon,TRUE
+Pac. Cod,TRUE
+Juv Atooth,TRUE
+Avian Predators,TRUE
+Seabirds,TRUE
+Deep demersals,TRUE
+Pollock adult,TRUE
+Rockfish,TRUE
+Baleen Whales,TRUE
+Salmon Fry,TRUE
+Nshore Demersal,TRUE
+Squid,TRUE
+Eulachon,TRUE
+Sea otters,TRUE
+Deep  Epibent,TRUE
+Capelin,TRUE
+Adult Herring,TRUE
+Pollock yoy,TRUE
+Shal Lg Epibent,TRUE
+Invertiv Bird,TRUE
+Sandlance,TRUE
+Juv Herring,TRUE
+Jellies,TRUE
+Deep sm infauna,TRUE
+Near OmniZoo,TRUE
+OmniZooplankton,TRUE
+Shal sm Infauna,TRUE
+Meiofauna,TRUE
+Deep Lg Infauna,TRUE
+Shal Sm Epibent,TRUE
+Shal lg infauna,TRUE
+Near HerbiZoo,TRUE
+HerbiZooplankton,TRUE
+Near Phytoplktn,TRUE
+Offshore Phyto,TRUE
+Macroalgae,TRUE
+Nekton falls,FALSE
+InshoreDetritus,FALSE
+Offshr Detritus,FALSE

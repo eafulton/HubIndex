@@ -1,0 +1,60 @@
+﻿Prey \ predator,Biomass
+Dolphins,0.038
+Seabirds,0.001
+Turtles,0.0069
+Manatees,0.0008
+LgOcePisc,0.07
+LgOcePlank,0.04280912
+Coastalsharks,0.09
+RaysSkates,0.238
+PelOcePisc,0.1505
+PelCoasPisc,0.23
+MackerelAdul,0.183
+MackerelJuv,0.126
+Sardine Herring,2.4
+PelOceJellyEaters,2.2
+PelOcePlanktivores,1.5
+DemOceInvertEaters,0.045
+DemCoasPisc,0.12
+DemCoasInvertEaters,1.4
+DemCoasOmniv,0.7
+BentOcePisc,0.045
+BentOceInvertEaters,0.19
+BentCoasPisc,0.245
+BentCoasInvertEaters,0.86
+SurfacePelagics,0.09933177
+StrucAssCoasPisc,0.22
+LgGroupers,0.1193
+StrucAssCoasInvertEaters,1.2
+StrucAssCoasOmniv,0.3117933
+StrucAssCoasPlank,0.05
+NearshAssPisc,0.01296707
+Mullets,0.3292
+NearshPlanktivores,2.215335
+Other fishes,3.87
+Squid,1.1
+Adult Shrimps,0.55
+Lobsters,0.028
+Large Crabs,0.7051148
+Octopods,0.07424739
+Stomatopods,0.9944
+Echinoderms Large gastropods,19.246
+Bivalves,48.596
+Sessile epibenthos,219
+Small infauna,19.032
+Small mobile epifauna,12.61386
+Meiofauna,13
+Small Copepods,8.3
+Other Mesozooplankton,6.7
+CarnivZooplank,21.6
+Ichthyoplankton,0.048
+CarnivJellyfish,0.2652
+Microbial Heterotrophs,60
+Macroalgae,36.05
+Microphytobenthos,29.778
+Phytoplankton,25
+Sea grasses,175.617
+Dead carcasses,1
+Sediment Detritus,390
+Watercolumn Detritus,125
+Drift Macrophytes,2.659

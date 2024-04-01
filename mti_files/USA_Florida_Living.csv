@@ -1,0 +1,60 @@
+﻿Prey \ predator,Living
+Dolphins,TRUE
+Seabirds,TRUE
+Turtles,TRUE
+Manatees,TRUE
+LgOcePisc,TRUE
+LgOcePlank,TRUE
+Coastalsharks,TRUE
+RaysSkates,TRUE
+PelOcePisc,TRUE
+PelCoasPisc,TRUE
+MackerelAdul,TRUE
+MackerelJuv,TRUE
+Sardine Herring,TRUE
+PelOceJellyEaters,TRUE
+PelOcePlanktivores,TRUE
+DemOceInvertEaters,TRUE
+DemCoasPisc,TRUE
+DemCoasInvertEaters,TRUE
+DemCoasOmniv,TRUE
+BentOcePisc,TRUE
+BentOceInvertEaters,TRUE
+BentCoasPisc,TRUE
+BentCoasInvertEaters,TRUE
+SurfacePelagics,TRUE
+StrucAssCoasPisc,TRUE
+LgGroupers,TRUE
+StrucAssCoasInvertEaters,TRUE
+StrucAssCoasOmniv,TRUE
+StrucAssCoasPlank,TRUE
+NearshAssPisc,TRUE
+Mullets,TRUE
+NearshPlanktivores,TRUE
+Other fishes,TRUE
+Squid,TRUE
+Adult Shrimps,TRUE
+Lobsters,TRUE
+Large Crabs,TRUE
+Octopods,TRUE
+Stomatopods,TRUE
+Echinoderms Large gastropods,TRUE
+Bivalves,TRUE
+Sessile epibenthos,TRUE
+Small infauna,TRUE
+Small mobile epifauna,TRUE
+Meiofauna,TRUE
+Small Copepods,TRUE
+Other Mesozooplankton,TRUE
+CarnivZooplank,TRUE
+Ichthyoplankton,TRUE
+CarnivJellyfish,TRUE
+Microbial Heterotrophs,TRUE
+Macroalgae,TRUE
+Microphytobenthos,TRUE
+Phytoplankton,TRUE
+Sea grasses,TRUE
+Dead carcasses,FALSE
+Sediment Detritus,FALSE
+Watercolumn Detritus,FALSE
+Drift Macrophytes,FALSE

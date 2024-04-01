@@ -1,0 +1,69 @@
+﻿Group,Living
+Baleen whales,TRUE
+Toothed whales,TRUE
+Seals,TRUE
+Seabirds,TRUE
+Juvenile sharks,TRUE
+Spurdog,TRUE
+Large piscivorous sharks,TRUE
+Small sharks,TRUE
+Juvenile rays,TRUE
+Starry ray others,TRUE
+Thornback Spotted ray,TRUE
+Skate cuckoo ray,TRUE
+Juvenile Cod,TRUE
+Cod adult,TRUE
+Juvenile Whiting,TRUE
+Whiting adult,TRUE
+Juvenile Haddock,TRUE
+Haddock adult,TRUE
+Juvenile Saithe,TRUE
+Saithe adult,TRUE
+Hake,TRUE
+Blue whiting,TRUE
+Norway pout,TRUE
+Other gadoids large,TRUE
+Other gadoids small,TRUE
+Monkfish,TRUE
+Gurnards,TRUE
+Herring juvenile,TRUE
+Herring adult,TRUE
+Sprat,TRUE
+Mackerel,TRUE
+Horse mackerel,TRUE
+Sandeels,TRUE
+Plaice,TRUE
+Dab,TRUE
+Long-rough dab,TRUE
+Flounder,TRUE
+Sole,TRUE
+Lemon sole,TRUE
+Witch,TRUE
+Turbot and brill,TRUE
+Megrim,TRUE
+Halibut,TRUE
+Dragonets,TRUE
+Catfish Wolffish,TRUE
+Large demersal fish,TRUE
+Small demersal fish,TRUE
+Miscellaneous filterfeeding pelagic fish,TRUE
+Squid cuttlefish,TRUE
+Fish larvae,TRUE
+Carnivorous zooplankton,TRUE
+Copepods,TRUE
+Gelatinous zooplankton,TRUE
+Large crabs,TRUE
+Nephrops,TRUE
+Epifaunal macrobenthos,TRUE
+Infaunal macrobenthos,TRUE
+Shrimp,TRUE
+Swarming crustaceans,TRUE
+Polychaetes,TRUE
+Sessile epifauna,TRUE
+Meiofauna,TRUE
+Benthic microflora,TRUE
+Planktonic microflora,TRUE
+Phytoplankton,TRUE
+Detritus water column,FALSE
+Detritus sediment,FALSE
+Discards,FALSE

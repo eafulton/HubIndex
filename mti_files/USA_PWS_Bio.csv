@@ -1,0 +1,49 @@
+﻿Group,Biomass
+Transient Orca,0.001
+Resident Orca,0.015
+Sharks,0.6623
+Halibut,0.677
+Porpoise,0.015
+Pinnipeds,0.072
+Lingcod,0.077
+Sablefish,0.293
+Adult Atooth,4
+Adult Salmon,3.41
+Pac. Cod,0.3
+Juv Atooth,0.855
+Avian Predators,0.002
+Seabirds,0.022
+Deep demersals,0.96
+Pollock adult,7.48
+Rockfish,1.016
+Baleen Whales,0.149
+Salmon Fry,0.072
+Nshore Demersal,4.2
+Squid,3
+Eulachon,1
+Sea otters,0.045
+Deep  Epibent,30
+Capelin,0.367
+Adult Herring,2.81
+Pollock yoy,0.11
+Shal Lg Epibent,3.1
+Invertiv Bird,0.005
+Sandlance,0.595
+Juv Herring,13.406
+Jellies,6.39
+Deep sm infauna,49.4
+Near OmniZoo,0.108
+OmniZooplankton,24.635
+Shal sm Infauna,51.5
+Meiofauna,4.474879
+Deep Lg Infauna,28.35
+Shal Sm Epibent,26.1
+Shal lg infauna,12.5
+Near HerbiZoo,0.136
+HerbiZooplankton,30
+Near Phytoplktn,5.326806
+Offshore Phyto,10.67234
+Macroalgae,125.25
+Nekton falls,2
+InshoreDetritus,19.52
+Offshr Detritus,114.48

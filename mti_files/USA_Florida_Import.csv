@@ -1,0 +1,60 @@
+﻿Prey \ predator,Import
+Dolphins,0
+Seabirds,0
+Turtles,0
+Manatees,0
+LgOcePisc,0
+LgOcePlank,0
+Coastalsharks,0.01182796
+RaysSkates,0
+PelOcePisc,0
+PelCoasPisc,0
+MackerelAdul,0
+MackerelJuv,0
+Sardine Herring,0
+PelOceJellyEaters,0
+PelOcePlanktivores,0
+DemOceInvertEaters,0
+DemCoasPisc,0.266024
+DemCoasInvertEaters,0
+DemCoasOmniv,0
+BentOcePisc,0
+BentOceInvertEaters,0
+BentCoasPisc,0
+BentCoasInvertEaters,0
+SurfacePelagics,0
+StrucAssCoasPisc,0
+LgGroupers,0
+StrucAssCoasInvertEaters,0
+StrucAssCoasOmniv,0
+StrucAssCoasPlank,0
+NearshAssPisc,0
+Mullets,3.267968
+NearshPlanktivores,0
+Other fishes,0
+Squid,0
+Adult Shrimps,0
+Lobsters,0
+Large Crabs,0
+Octopods,0
+Stomatopods,0
+Echinoderms Large gastropods,0
+Bivalves,0
+Sessile epibenthos,0
+Small infauna,0
+Small mobile epifauna,0
+Meiofauna,0
+Small Copepods,0
+Other Mesozooplankton,0
+CarnivZooplank,0
+Ichthyoplankton,0
+CarnivJellyfish,0
+Microbial Heterotrophs,0
+Macroalgae,91.76059
+Microphytobenthos,293.51395
+Phytoplankton,3380.2765
+Sea grasses,1566.5531
+Dead carcasses,0
+Sediment Detritus,0
+Watercolumn Detritus,0
+Drift Macrophytes,0
