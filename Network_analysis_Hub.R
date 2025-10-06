@@ -216,7 +216,7 @@ b <- betweenness(g, directed=F, weights=NA, normalized = T)
 write(b, file = "betweeness.txt", ncolumns = 1, sep = " ")
 
 # Page rank score
-pg <- page.rank(g, damping = 0)
+pg <- page.rank(g, damping = 0.85)
 write(pg, file = "pagerank.txt", ncolumns = 1, sep = " ")
 
 
