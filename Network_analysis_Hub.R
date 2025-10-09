@@ -217,7 +217,7 @@ write(b, file = "betweeness.txt", ncolumns = 1, sep = " ")
 
 # Page rank score
 pg <- page.rank(g, damping = 0.85)
-write(pg, file = "pagerank.txt", ncolumns = 1, sep = " ")
+write(pg$vector, file = "pagerank.txt", ncolumns = 1, sep = " ")
 
 
 ##################### SURF ###########################
